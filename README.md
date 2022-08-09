@@ -8,4 +8,4 @@ To add a new notebook, please send a PR. For specific dandiset-related analysis,
 
 For example, `000011/datajoint/najafi18`
 
-Feel free to reach out on the [NWB helpdesk](https://github.com/NeurodataWithoutBorders/helpdesk/issues/new) with any questions.
+Feel free to reach out on the [NWB helpdesk](https://github.com/NeurodataWithoutBorders/helpdesk/issues/new) with any questions related to NWB or reach out on the [DANDI helpdesk](https://github.com/dandi/helpdesk/issues/new/choose) with any questions related to DANDI.
